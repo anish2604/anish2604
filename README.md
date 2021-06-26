@@ -39,9 +39,9 @@
 
 <br><br>
 
-<p align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark">
-</p>
+</div>
 
 <br><br>
 
