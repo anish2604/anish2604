@@ -35,9 +35,9 @@
 
 ![Anish's Github](https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical)
 
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=44t4nk1&show_icons=true&hide_border=true&theme=dark)
+![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44t4nk1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <h3 align="center"> Connect with me:</h3>
