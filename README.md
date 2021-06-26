@@ -47,7 +47,7 @@
 </div>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anish26048&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anish2604&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 
 
