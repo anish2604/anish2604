@@ -33,12 +33,23 @@
 </div>
 <br><br>
 
-![Anish's Github](https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical")
+</p>
 
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark">
+</p>
+
+<br><br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
+</p>
+
+<br><br>
 
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
