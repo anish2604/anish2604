@@ -34,7 +34,7 @@
 <br><br>
 
 <p align="center">
-![Anish's Github](https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical")
 </p>
 
 <br><br>
