@@ -34,19 +34,19 @@
 <br><br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical")
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical">
 </p>
 
 <br><br>
 
 <p align="center">
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark">
 </p>
 
 <br><br>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
 <br><br>
