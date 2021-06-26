@@ -39,7 +39,7 @@
 
 <br><br>
 
-![Siddharth's github stats align="center" (https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark)]
+![Siddharth's github stats align="center"] (https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark)
 
 <br><br>
 
