@@ -39,9 +39,7 @@
 
 <br><br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark">
-</div>
+![Siddharth's github stats align="center" (https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark)]
 
 <br><br>
 
