@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Backend Development and Competitive Programming**
 - 👯 I’m looking to collaborate on Web Development Projects
-- 🥅 2021 Goals: Build more projects using React
+- 🥅 2021 Goals: Build more projects
 - 💬 Ask me about Web Development
 - 😄 Pronouns: **He/Him**
 
@@ -46,11 +46,11 @@
   <br><br>
 </div>
 
-<h3 align="center"><b>Anish's Github Stats!</h3></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vidushig08&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anish26048&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 
-<h3 align="center"><b>Most used languages:</h3></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 
@@ -59,13 +59,10 @@
   <a href="https://www.linkedin.com/in/anish-chattaraj-103855189/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Anish | LinkedIn" width="40px" >
   </a>
-  <a href="https://www.instagram.com/vidushiiguptaa" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Anish | Instagram" width="40px" >
-  </a>
-    <a href="https://github.com/vidushig08" target="_blank">
+    <a href="https://github.com/anish2604" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Anish| Gmail" width="40px" >
   </a>
-  <a href="mailto:vidushig08@gmail.com" target="_blank">
+  <a href="mailto:anish.chattaraj2019@vitstudent.ac.in" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Anish| Gmail" width="40px" >
   </a>
  <br/>
