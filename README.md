@@ -4,7 +4,7 @@
 <!-- **anish2604/anish2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Backend Development and Competitive Programming**
+- 🌱 I’m currently learning **Backend Development**
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🥅 2021 Goals: Build more projects
 - 💬 Ask me about Web Development
