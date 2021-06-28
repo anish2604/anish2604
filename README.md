@@ -37,13 +37,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical")
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark">
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&theme=dark" src="https://github.com/anuraghazra/github-readme-stats">
