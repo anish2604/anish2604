@@ -37,7 +37,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish2604&theme=radical")
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anish2604&show_icons=true&hide_border=true&theme=dark">
@@ -49,7 +49,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2604&layout=compact&theme=dark" src="https://github.com/anuraghazra/github-readme-stats">
 </p>
 
-<br>
 
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
