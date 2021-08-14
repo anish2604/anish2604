@@ -50,7 +50,7 @@
 
 <br>
 
-<h3 align="center"> Connect with me:</h3>
+<h3 align="center"> Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/anish-chattaraj-103855189/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Anish | LinkedIn" width="40px" >
