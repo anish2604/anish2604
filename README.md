@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there 👋, I am Anish </h1>
-<h3 align="center"> A Front End Web Developer </h3>
+<h3 align="center"> A Full Stack Web Developer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish2604" alt="Anish Chattaraj" /> </p>
 <!-- **anish2604/anish2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Backend Development**
+- 🔭 I’m working on **Web Development**
+- 🌱 I’m currently practicing competitive coding
 - 👯 I’m looking to collaborate on Web Development Projects
-- 🥅 2021 Goals: Build more projects
+- 🥅 2021 Goals: Build more projects and take parts in Coding Contest and Hackathons
 - 💬 Ask me about Web Development
 - 😄 Pronouns: **He/Him**
 
