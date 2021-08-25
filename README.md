@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish2604" alt="Anish Chattaraj" /> </p>
 <!-- **anish2604/anish2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m working on **Web Development**
+- 🔭 I’m working on **MERN Development**
 - 🌱 I’m currently practicing competitive coding
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🥅 2021 Goals: Build more projects and take parts in Coding Contest and Hackathons
