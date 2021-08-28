@@ -61,4 +61,6 @@
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Anish| Gmail" width="40px" >
   </a>
  <br/>
+  
+  <img alt="Anish Chattaraj's Activity Graph" src="https://camo.githubusercontent.com/4156c3cf84d39ebaf211f9c13fb444bd56c35d89da8bec7c0809a18d57b1d3c9/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d73756a616c6765726130312662675f636f6c6f723d30443131313726636f6c6f723d354243444543266c696e653d35424344454326706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=anish2604&amp;bg_color=0D1117&amp;color=548C55&amp;line=548C55&amp;point=FFFFFF&amp;hide_border=true" style="max-width:100%;">
 </div>
