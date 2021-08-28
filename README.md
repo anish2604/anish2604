@@ -62,5 +62,5 @@
   </a>
  <br/>
   
-  <img alt="Anish Chattaraj's Activity Graph" src="https://camo.githubusercontent.com/" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=anish2604&amp;bg_color=0D1117&amp;color=548C55&amp;line=548C55&amp;point=FFFFFF&amp;hide_border=true" style="max-width:100%;">
+  <img alt="Anish Chattaraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anish2604&amp;bg_color=0D1117&amp;color=548C55&amp;line=548C55&amp;point=FFFFFF&amp;hide_border=true" style="max-width:100%;">
 </div>
