@@ -60,7 +60,7 @@
   <a href="mailto:anish.chattaraj2019@vitstudent.ac.in" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Anish| Gmail" width="40px" >
   </a>
- <br/>
+ <br><br><br>
   
   <img alt="Anish Chattaraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anish2604&amp;bg_color=0D1117&amp;color=548C55&amp;line=548C55&amp;point=FFFFFF&amp;hide_border=true" style="max-width:100%;">
 </div>
