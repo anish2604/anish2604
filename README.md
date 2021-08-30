@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Viewers <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36px" style="max-width:100%;">, I am Anish Chattaraj </h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36px" style="max-width:100%;">, I am Anish Chattaraj </h1>
 <h3 align="center"> A Web Developer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish2604" alt="Anish Chattaraj" /> </p>
 <!-- **anish2604/anish2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
