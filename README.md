@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🥅 2021 Goals: Build more projects and take parts in Coding Contest and Hackathons
 - 💬 Ask me about Web Development
-- 😄 Pronouns: **He/Him**
 
 <br>
 <h3 align="center"> Languages & Tools 🛠 💻</h3>
