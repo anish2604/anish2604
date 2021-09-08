@@ -2,7 +2,7 @@
 <h3 align="center"> A Web Developer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish2604" alt="Anish Chattaraj" /> </p>
 <!-- **anish2604/anish2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<br>
+
 - 🔭 I’m working on **MERN Development**
 - 🌱 I’m currently practicing competitive coding
 - 👯 I’m looking to collaborate on Web Development Projects
