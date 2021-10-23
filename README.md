@@ -7,7 +7,7 @@
 - 🌱 I’m currently practicing Competitive Coding
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🥅 2021 Goals: Build more projects and take parts in Coding Contests and Hackathons
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development
 
 <br>
 <h3 align="center"> Languages & Tools 🛠 💻</h3>
