@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on **MERN Stack Web Development**
 - 🌱 I’m currently practicing Competitive Coding
-- 👯 I’m looking to collaborate on Web Development Project
+- 👯 I’m looking to collaborate on Web Development Projects
 - 🥅 2021 Goals: Build more projects and take parts in Coding Contests and Hackathons
 - 💬 Ask me about **Web Development**
 
